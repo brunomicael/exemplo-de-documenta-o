@@ -50,9 +50,10 @@ resource "aws_instance" "exemplo_ec2" {
 
  <img width="300px" src="https://github.com/user-attachments/assets/7dd9ff88-3c2e-48b4-9f70-7111f9f26439" />
 
-.
 
-- Podemos usar tambem além de codigos, erros gerados pelos mesmos, podemos fazer algum tipo de comentario para solução e diferenciar as abordagens de forma visual.
+# Tratamento de erro
+
+- Podemos usar tambem além de codigos, erros gerados pelos compiladores, fazer algum tipo de comentario para solução é diferenciar as abordagens de forma visual e pratica.
 
 ```bash
 $ ./instalar_webserver.sh
