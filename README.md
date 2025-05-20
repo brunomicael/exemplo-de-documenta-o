@@ -1,5 +1,5 @@
 # Exemplo para documentações
-Teste para futuras documentações tecnicas, visando uma melhor clareza sintatica e diagramação adaptada para tecnicos e não tecnicos.
+Exemplo de estrutura para futuras documentações tecnicas, visando uma melhor clareza sintatica e diagramação adaptada para tecnicos e não tecnicos.
 
 ## Primeiro passo
 Blocos de codigos com markdown são muito uteis para facil verificação, **copia e compartilhamento de codigo**, criando um melhor ambiente para *engenharia de infra ou de software* revisar e compartilhar o conhecimento. <sup>[2]</sup>
